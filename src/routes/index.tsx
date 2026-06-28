@@ -505,18 +505,18 @@ function Benefits() {
 
 /* ---------------- Instructors ---------------- */
 const faculty = [
-  { name: "Bhumesh Verma", role: "Founding Partner, Corp Comm Legal", bio: "30+ years across M&A, JVs and corporate contracts. Recorded lectures + masterclasses.", image: "images/Bhumesh-Varma.png" },
-  { name: "Gourav Mohanty", role: "Advocate, Bombay High Court", bio: "Practitioner across commercial litigation, real estate and Power of Attorney execution.", image: "images/Gourav-1.png"},
-  { name: "Anup Menon V.", role: "Partner, Corporate & Banking Law", bio: "Corporate law specialist with expertise in banking, commercial contracts, compliance, and strategic legal advisory.", image: "images/Anup-Menon-V.png" },
-  { name: "Akanksha Mishra", role: "Constitutional Law specialist, SLS Pune & LL.M. Nagpur", bio: "Course developer focused on contractual nuance, IP and media licensing.", image: "images/Akanksha-Mishra.png" },
-  { name: "Arunima Jha", role: "Partner, Media, Privacy & Corporate Law", bio: "Expert in media law, privacy, data protection, and corporate advisory, with over a decade of in-house legal leadership experience.", image: "images/Arunima-Jha.png" },
-  { name: "Tanuj Kalia", role: "Negotiation coach & advocate", bio: "Leads the Negotiation Skills sessions — from term sheets to salary conversations.", image: "images/Tanuj.png" },
-  { name: "Shashank Sardesai", role: "Co-Founding Partner, Litigation & Corporate Law", bio: "Independent Litigator & Company Secretary specializing in litigation, corporate advisory, and commercial contracts.", image: "images/Shashank-Sardesai.png" },
-  { name: "Pranjal Doshi", role: "Partner, Mergers & Acquisitions", bio: "Specializes in M&A, private equity transactions, and investment documentation, with experience at Trilegal, Khaitan & Co., and Walker Morris LLP.", image: "images/Pranjal-Doshi.png" },
-  { name: "Adv. Jaibatruka Mohanta", role: "Partner, Public Policy & Criminal Law", bio: "Practicing Advocate specializing in criminal law, public policy, government advisory, and legal research.", image: "images/Jai.png" }, 
-  { name: "H. B Keshava", role: "Partner, Intellectual Property Law", bio: "IP law practitioner specializing in trademarks, copyrights, and intellectual property advisory.", image: "images/HB-Keshava.png" },
-  { name: "Shayonee Dasgupta", role: "Partner, Legal Research & Content", bio: "Legal researcher and content strategist with experience at Trilegal, Shardul Amarchand Mangaldas, and IDIA.", image: "images/Shayonee-Dasgupta.png" },
-  { name: "Debanshu Khettry", role: "Partner, Corporate Law & Legal Innovation", bio: "Corporate lawyer, legal entrepreneur, and investor with expertise in corporate advisory, legal innovation, and startup ecosystems.", image: "images/Debanshu-Khettry.png" },
+  { name: "Bhumesh Verma", role: "Founding Partner, Corp Comm Legal", bio: "30+ years across M&A, JVs and corporate contracts. Recorded lectures + masterclasses.", image: "/images/Bhumesh-Varma.png" },
+  { name: "Gourav Mohanty", role: "Advocate, Bombay High Court", bio: "Practitioner across commercial litigation, real estate and Power of Attorney execution.", image: "/images/Gourav-1.png"},
+  { name: "Anup Menon V.", role: "Partner, Corporate & Banking Law", bio: "Corporate law specialist with expertise in banking, commercial contracts, compliance, and strategic legal advisory.", image: "/images/Anup-Menon-V.png" },
+  { name: "Akanksha Mishra", role: "Constitutional Law specialist, SLS Pune & LL.M. Nagpur", bio: "Course developer focused on contractual nuance, IP and media licensing.", image: "/images/Akanksha-Mishra.png" },
+  { name: "Arunima Jha", role: "Partner, Media, Privacy & Corporate Law", bio: "Expert in media law, privacy, data protection, and corporate advisory, with over a decade of in-house legal leadership experience.", image: "/images/Arunima-Jha.png" },
+  { name: "Tanuj Kalia", role: "Negotiation coach & advocate", bio: "Leads the Negotiation Skills sessions — from term sheets to salary conversations.", image: "/images/Tanuj.png" },
+  { name: "Shashank Sardesai", role: "Co-Founding Partner, Litigation & Corporate Law", bio: "Independent Litigator & Company Secretary specializing in litigation, corporate advisory, and commercial contracts.", image: "/images/Shashank-Sardesai.png" },
+  { name: "Pranjal Doshi", role: "Partner, Mergers & Acquisitions", bio: "Specializes in M&A, private equity transactions, and investment documentation, with experience at Trilegal, Khaitan & Co., and Walker Morris LLP.", image: "/images/Pranjal-Doshi.png" },
+  { name: "Adv. Jaibatruka Mohanta", role: "Partner, Public Policy & Criminal Law", bio: "Practicing Advocate specializing in criminal law, public policy, government advisory, and legal research.", image: "/images/Jai.png" }, 
+  { name: "H. B Keshava", role: "Partner, Intellectual Property Law", bio: "IP law practitioner specializing in trademarks, copyrights, and intellectual property advisory.", image: "/images/HB-Keshava.png" },
+  { name: "Shayonee Dasgupta", role: "Partner, Legal Research & Content", bio: "Legal researcher and content strategist with experience at Trilegal, Shardul Amarchand Mangaldas, and IDIA.", image: "/images/Shayonee-Dasgupta.png" },
+  { name: "Debanshu Khettry", role: "Partner, Corporate Law & Legal Innovation", bio: "Corporate lawyer, legal entrepreneur, and investor with expertise in corporate advisory, legal innovation, and startup ecosystems.", image: "/images/Debanshu-Khettry.png" },
 ];
 
 function Instructors() {
